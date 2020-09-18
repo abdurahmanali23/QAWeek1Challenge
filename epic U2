@@ -1,0 +1,24 @@
+epic:   (U10) estimation (4)                               Acceptance Criteria:
+                                   
+As an admin,                                  Given, the admin is on the film listing portal,
+I would like to manage film listings          When, they add a film,  (U11)
+So that I can keep the homepage updated.      And remove a film,     (U12)
+                                              Then, they are updated with a new film listing
+---------------------------------+-------------------------------------------------------------
+Further stories:(U11 child of U10) estimation (2)
+                                
+As an admin,                                 Given, the admin is on the film listing portal,
+I would like to add a film,                  When, add a film,
+So that I can keep the homepage updated.     Then, they are asked to confirm selection.
+                                 
+(U12 child of U10) estimation (2)              
+                                 
+As an admin,                                  Given, the admin is on the film listing portal,
+I would like to remove film,                  When, they remove a film
+So that I can keep the homepage updated.      Then, they are asked to confirm selection.
+
+Definition of Done
+
+Peer reviewed
+Unit testing
+Documentation updated
