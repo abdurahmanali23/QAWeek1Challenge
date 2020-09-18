@@ -47,6 +47,71 @@ Time estimation
 
 story point value = 2
 
+User story - 4
+
+As a user, 
+I want to view movie trailers from the film listing page
+So that it can help me decide what I prefer to watch
+
+Acceptance criteria
+
+Given the user is on the film listing page
+When I choose a movie
+Then I should see the trailer without leaving the website
+
+Time estimation
+
+story point value = 4
+
+User story - 5
+
+As a staff member, 
+I want to be able to process a refund for a customer
+So that a refund can be issued
+
+Acceptance criteria
+
+Given the staff member is on the refund page
+When I choose a customer
+Then I should have an option to refund the payment
+
+Time estimation
+
+story point value = 2
+
+As a staff member,
+I want to access to the booking history
+So that I can calculate the popularity of a movie
+
+Acceptance criteria
+
+Given the staff member is on the booking stats page
+When I select a particular movie
+Then I should see how many people attended the movie in comparison to number of seats available
+
+Time estimation
+
+story point value = 3
+
+As an admin,
+I want to be able to determine if a user is staff or customer
+So that I can give the correct priviliges 
+
+Acceptance criteria
+
+Given the admin is on the view users page
+When I select a particular movie
+Then I should see how many people attended the movie in comparison to number of seats available
+
+Time estimation
+
+story point value = 3
+
+
+
+
+
+
 
 
 
