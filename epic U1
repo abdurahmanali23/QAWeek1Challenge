@@ -33,26 +33,26 @@ So that I can make a booking.    |
 								
 (U5 child of U1)				
 
-As a User, 						                  Given, the User has selected ticket types.
-I would like to select a seat,		      When, they select from the available seats
+As a User, 					Given, the User has selected ticket types.
+I would like to select a seat,		        When, they select from the available seats
 So that I can make a booking.		        Then, they are asked to enter their details.
 
 (U6 child of U1)				
 
-As a User, 						                   Given, the User has selected their seats.
-I would like to enter my details,	       When, they enter their details.
-So that I can make a booking.		         Then, they are asked to enter their card details.
+As a User, 			 		Given, the User has selected their seats.
+I would like to enter my details,	        When, they enter their details.
+So that I can make a booking.		        Then, they are asked to enter their card details.
 
 (U7 child of U1)				
 
-As a User, 						                    Given, the User has entered their details.
-I would like to enter card details,	      When, they enter their card details.
-So that I can make a booking.		          Then, they are asked to confirm booking.
+As a User, 					Given, the User has entered their details.
+I would like to enter card details,	        When, they enter their card details.
+So that I can make a booking.		        Then, they are asked to confirm booking.
 
 (U8 child of U1)				
 
-As a User, 						                  Given, the User has entered their card details.
-I would like to confirm booking,		    When, they confirm booking
+As a User, 					Given, the User has entered their card details.
+I would like to confirm booking,		When, they confirm booking
 So that I can make a booking.		        Then, they are asked to check their email for their e-tickets.
 
 
