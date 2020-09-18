@@ -1,0 +1,60 @@
+epic:   (U1)                     |  Acceptance Criteria:
+                                 |  
+As a User,                       |  Given, the User is on the bookings page,
+I would like to make a booking   |  When, they select a movie,  (U2)
+So that I can see a movie        |  And they choose a time,     (U3)
+                                 |  And they choose ticket types, (U4)
+                                 |  And they select seats, (U5)
+                                 |  And they enter their details,(U6)
+                                 |  And they enter card details, (U7)
+                                 |  And they click 'Book',
+                                 |  Then, they are sent a confirmation email with their tickets (U8)
+---------------------------------+-------------------------------------------------------------
+Further stories:(U2 child of U1) |
+                                 |
+                                 |
+As a User,                       |  Given, the User is on the bookings page,
+I would like to select a movie,  |  When, they select a movie from the drop down list,
+So that I can make a booking.    |  Then, they are asked to select from available times.
+                                 |
+(U3 child of U1)                 |
+                                 |
+As a User,                       |  Given, the User has selected a movie,
+I would like to select a time,   |  When, they select from the available times
+So that I can make a booking.    |  And, click confirm.
+                                 |  Then, they are asked to select ticket types.
+(U4 child of U1)                 |
+                                 |
+As a User,                       |  Given, the User has confirmed times.
+I would like to select ticket    |  When, they select from the available ticket types
+types,                           |  Then, they are asked to select seats.
+So that I can make a booking.    |
+                                 |	
+								
+(U5 child of U1)				
+
+As a User, 						                  Given, the User has selected ticket types.
+I would like to select a seat,		      When, they select from the available seats
+So that I can make a booking.		        Then, they are asked to enter their details.
+
+(U6 child of U1)				
+
+As a User, 						                   Given, the User has selected their seats.
+I would like to enter my details,	       When, they enter their details.
+So that I can make a booking.		         Then, they are asked to enter their card details.
+
+(U7 child of U1)				
+
+As a User, 						                    Given, the User has entered their details.
+I would like to enter card details,	      When, they enter their card details.
+So that I can make a booking.		          Then, they are asked to confirm booking.
+
+(U8 child of U1)				
+
+As a User, 						                  Given, the User has entered their card details.
+I would like to confirm booking,		    When, they confirm booking
+So that I can make a booking.		        Then, they are asked to check their email for their e-tickets.
+
+
+
+                                
