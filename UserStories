@@ -1,0 +1,52 @@
+User story - 1
+
+As a user, 
+I want to view film listing
+So that I can choose which movie I would like to watch
+
+Acceptance criteria
+
+Given the user is on the film listing page
+When I scroll on this page
+Then I should see all the film listings available to watch
+
+Time estimation
+
+story point value = 1
+
+User story - 2
+
+As a user, 
+I want to view the amount and type of tickets available
+So that I can choose the amount and type of tickets I neen
+
+Acceptance criteria
+
+Given the user is on the select ticket page
+When I select a ticket type and amount
+Then I should see whether they are available or not
+
+Time estimation
+
+story point value = 2
+
+User story - 3
+
+As a user, 
+I want to see the seats available in my movie selection.
+So that I can choose a seat that I prefer.
+
+Acceptance criteria
+
+Given the user is on the select seats page
+When I select a seat
+Then I should see whether they are available or not 
+and be able to confirm a seat
+
+Time estimation
+
+story point value = 2
+
+
+
+
