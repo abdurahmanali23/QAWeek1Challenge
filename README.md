@@ -1,3 +1,6 @@
+![Alt text](img/palo-alto-routing.png?raw=true "High Level Overview")
+
+
 # Week1Challenge
 
 What was the challenge?
