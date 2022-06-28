@@ -1,4 +1,4 @@
-![Alt text](img/palo-alto-routing.png?raw=true "High Level Overview")
+![Alt text](img/Palo-Alto-Routing.png)
 
 
 # Week1Challenge
